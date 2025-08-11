@@ -451,7 +451,7 @@ const HeroSection = () => {
           
             <div className="profile-image-container">
               <img 
-                src="./src/assets/tomtom.jpg" 
+                src="/tomtom.jpg" 
                 alt="Profile"
                 className="profile-image"
               />

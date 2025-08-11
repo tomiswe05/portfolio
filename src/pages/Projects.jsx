@@ -7,7 +7,7 @@ const Projects = () => {
       id: 1,
       title: "Diatrack ( In-Progress)",
       description: "A comprehensive admin dashboard for e-commerce management built with React and Node.js. Features include real-time analytics, inventory management, order tracking, and customer insights.",
-      image: "./src/assets/dashboard.png",
+      image: "/dashboard.png",
       technologies: ["React", "Node.js", "SQL", "Chart.js", 'Java'],
       githubLink: "https://github.com/tomiswe05/diatrack_app",
       featured: true
@@ -16,7 +16,7 @@ const Projects = () => {
       id: 2,
       title: "CervHack",
       description: "A Machine learning web application that predicts cervical cancer risk using logistic regression. Built with user-friendly interface and REST APIs for real-time medical data analysis and risk assessment.",
-      image: "./src/assets/blackk.png",
+      image: "/blackk.png",
       technologies: ["JavaScript", "Express.js", "SQL", "Scikit Learn"],
       githubLink: "https://github.com/tomiswe05/cervhack",
       featured: false
@@ -25,7 +25,7 @@ const Projects = () => {
       id: 3,
       title: "School Class Management API (Backend)",
       description: " A RESTful API for managing school classes, including class name, section, and assigned teacher. Supports create, read, update, and delete operations with a relational database structure ensuring data consistency.",
-      image: "./src/assets/code.jpg",
+      image: "/code.jpg",
       technologies: ["Java(SpringBoot)", "Spring Data JPA"],
       githubLink: "https://github.com/tomiswe05/class_managar",
       featured: false

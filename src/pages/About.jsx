@@ -166,7 +166,7 @@ const styles = {
 
   mainContent: {
     display: 'grid',
-    gridTemplateColumns: '1fr 1fr',
+    gridTemplateColumns: '6fr 1fr',
     gap: '4rem',
     alignItems: 'start',
     '@media (max-width: 768px)': {
@@ -235,6 +235,7 @@ const styles = {
 
   specialPlaceSection: {
     position: 'relative',
+    display: 'none'
   },
 
   globeContainer: {
